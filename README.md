@@ -33,9 +33,5 @@ xxxx
 # Venue
 
 
-
-# Organizing committee:
-
-
   
 # Program (TBC)
