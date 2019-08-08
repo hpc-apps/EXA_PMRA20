@@ -14,12 +14,13 @@ The landscape of architectures that may be available to reach the exascale leads
 xxxx
 
 # Workshop Co-chairs
+* Emmanuel Jeannot,	Inria
 * Marc Perache, CEA 
 * Fabrice Dupros, Arm	
 
 # Program committee (tentative)
 
-* Emmanuel Jeannot,	Inria
+
 * Hoekstra, Robert J,	Sandia Sational Laboratories
 * Hammond, Simon David,	Sandia National Laboraties
 * Lujan, James Westley,	Los Alamaos National Laboratory
