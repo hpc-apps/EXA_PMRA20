@@ -13,7 +13,7 @@ The landscape of architectures that may be available to reach the exascale leads
 
 xxxx
 
-# WOrganizing committee
+# Organizing committee
 * Emmanuel Jeannot,	Inria
 * Marc Perache, CEA 
 * Fabrice Dupros, Arm	
