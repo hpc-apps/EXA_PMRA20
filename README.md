@@ -20,12 +20,12 @@ xxxx
 # Program committee (tentative)
 
 * Emmanuel Jeannot,	Inria
-* Hoekstra, Robert J,	Sandia Sational Lab
-* Hammond, Simon David,	Sandia National Lab
-* Lujan, James Westley,	Los Alamaos National Lab
-* D'Hooge, Trent, Lawrence Livermore National Lab
+* Hoekstra, Robert J,	Sandia Sational Laboratories
+* Hammond, Simon David,	Sandia National Laboraties
+* Lujan, James Westley,	Los Alamaos National Laboratory
+* D'Hooge, Trent, Lawrence Livermore National Laboratory
 * Philippe Thierry,	Intel
-*	Balazs Gerofi, Riken
+*	Balazs Gerofi, RIKEN
 * Hatem Ltaeif, Kaust
 
 
