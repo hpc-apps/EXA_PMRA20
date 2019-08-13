@@ -1,4 +1,4 @@
-# Title : Scheduling on complexe SoC
+# Scheduling on complexe SoC
 
 # Overview
 
