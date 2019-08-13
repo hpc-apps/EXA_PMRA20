@@ -1,38 +1,49 @@
-# Title : TBD
+# Title : Scheduling on complexe SoC
 
 # Overview
 
-The landscape of architectures that may be available to reach the exascale leads to increasing concerns regarding applicative performance. Whatever the design of these systems will be (heterogeneity, high core counts or depth of the memory hierarchy), it is admitted that co-design approaches will play a major role to adopt the next breakthroughs. Last few years, AArch64 architectures have gained traction with a growing number of silicon partner (Fujitsu, Huawei, Marvell …) and major deployments (Catalyst project, Sandia, CEA, Riken …).  On the software ecosystem side, optimized compilers and numerical libraries are now mature to support petascale simulations.
+ With the advent of multi-core/many-core architectures, the core count increases up to 64+ core per socket. These sockets can be heterogeneous with integrated GPUs, FPGAs or NICs. The system on chip (SoC) architectures can be used from cell phones to HPC systems. In order to optimized the utilization of these SoCs, the applications have to use parallel heterogeneous programming models and rely on dedicated runtime.  These runtimes have to deal with the complexity of the SoC architecture in order to provide the best time to solution or power to solution depending on the needs.
 
 
- Indeed, the HPC community is now able to have access to arm-based production platforms and research topics are emerging from early adopters.  Therefore, one of the key objectives of this workshop is to gather expertise from various research groups (runtime systems, linear algebra, operating system, performance modelling …) to discuss key features and shape next-generation applications. 
+The goal of this workshop is to is to gather and share the latest scholarly research from the community working on these issues, at all levels of the software stack. This includes, thread/task scheduling, GPU task engine, programming models and so on, from the runtime system to applications. We will also use panel sessions and keynote talks to discuss these issues, share visions, and present solutions.
+
+
  
  
 
 # Topics of interest
 
-xxxx
+For this workshop we welcome original work, presenting state of practice and state of the art and covering different aspects of thread/task scheduling, GPU task engine, programming models from system to application level for parallel applications on complex SoCs. We will also welcome surveys, position papers or standardization proposal. The workshop will cover the following topics :
 
-# Organizing committee
-* Emmanuel Jeannot,	Inria
+* Heterogeneous CPU/GPU scheduling;
+* Heterogeneous CPU scheduling;
+* Energy management;
+* Communication progression;
+* Runtime system/language/library interaction;
+* Parallel programming model for heterogeneous systems;
+* DSLs for complex SoCs
+
+
+# Program Chairs
+
 * Marc Perache, CEA 
 * Fabrice Dupros, Arm	
 
 # Program committee (tentative)
+* Emmanuel Jeannot,	Inria
+* Hoekstra, Robert J,	Sandia Sational Laboratories (confirmed)
+* Hammond, Simon David,	Sandia National Laboraties (confirmed)
+* Lujan, James Westley,	Los Alamaos National Laboratory (confirmed)
+* D'Hooge, Trent, Lawrence Livermore National Laboratory (confirmed)
+* Philippe Thierry,	Intel 
+*	Balazs Gerofi, RIKEN (confirmed)
+* Hatem Ltaeif, Kaust 
+* Sameer Shende, U. of Oregon 
 
+# How to submit
+Papers, in PDF format should be submitted through the easychair web site here. Paper must be formatted the same way as IPDPS papers : submitted manuscripts may not exceed ten (10) single-spaced double-column pages using 10-point size font on 8.5×11 inch pages (IEEE conference style), including figures, tables, and references. The IEEE conference template that can be found here.
 
-* Hoekstra, Robert J,	Sandia Sational Laboratories
-* Hammond, Simon David,	Sandia National Laboraties
-* Lujan, James Westley,	Los Alamaos National Laboratory
-* D'Hooge, Trent, Lawrence Livermore National Laboratory
-* Philippe Thierry,	Intel
-*	Balazs Gerofi, RIKEN
-* Hatem Ltaeif, Kaust
+# Important dates
+* Submission deadline: February 1st , 2020
+* Author Notification: March 8th, 2020
 
-
-
-# Venue
-
-
-  
-# Program (TBC)
