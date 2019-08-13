@@ -1,4 +1,4 @@
-# Challenges  for runtime systems, programming models and applications on complexe SoCs
+# Challenges  for runtime systems, programming models and applications on complex SoCs
 
 # Overview
 
