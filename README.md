@@ -37,9 +37,7 @@ For this workshop we welcome original work, presenting state of practice and sta
 * Hammond, Simon David,	Sandia National Laboraties (confirmed)
 * Lujan, James Westley,	Los Alamaos National Laboratory (confirmed)
 * D'Hooge, Trent, Lawrence Livermore National Laboratory (confirmed)
-* Philippe Thierry,	Intel 
 *	Balazs Gerofi, RIKEN (confirmed)
-* Hatem Ltaeif, Kaust 
 * Sameer Shende, U. of Oregon 
 
 # How to submit
