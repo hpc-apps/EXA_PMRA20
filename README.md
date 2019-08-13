@@ -1,4 +1,4 @@
-# Scheduling on complexe SoC
+# Challenges  for runtime systems, programming models and applications on complexe SoC
 
 # Overview
 
@@ -15,12 +15,13 @@ The goal of this workshop is to is to gather and share the latest scholarly rese
 
 For this workshop we welcome original work, presenting state of practice and state of the art and covering different aspects of thread/task scheduling, GPU task engine, programming models from system to application level for parallel applications on complex SoCs. We will also welcome surveys, position papers or standardization proposal. The workshop will cover the following topics :
 
-* Heterogeneous CPU/GPU scheduling;
-* Heterogeneous CPU scheduling;
+* Scheduling on complex SoCs;
+* Performance modelling; 
 * Energy management;
 * Communication progression;
 * Runtime system/language/library interaction;
 * Parallel programming model for heterogeneous systems;
+* Co-design; 
 * DSLs for complex SoCs
 
 
