@@ -1,10 +1,10 @@
-# Challenges  for runtime systems, programming models and applications on complexe SoC
+# Challenges  for runtime systems, programming models and applications on complexe SoCs
 
 # Overview
 
-The advent of multi-core/many-core architectures  with significant progress in chip manufacturing technology, . These sockets can be heterogeneous with integrated GPUs, FPGAs or NICs.In order to optimized the utilization of these SoCs, 
+With significant progress in chip manufacturing technology, the complexity of available architectures is increasing with higher core count (up to 64+ core er socket), depth of the memory hierarchy and more heterogenity with integrated GPUs, FPGAs or NICs. 
 
-Indeed, the increase of the core count up to 64+ core per socket leads to many concerns regarding applicative performances. To squeeze the maximum level of performance out othese complexe SoCs, applications may rely on  parallel and heterogeneous programming models or dedicated runtime systems.  These runtimes have to deal with the complexity of the SoC architecture in order to provide the best time to solution or power to solution depending on the needs.
+This landscape of architectures that may be available to reach the exascale leads to increasing concerns regarding applicative performance. To squeeze the maximum level of performance out of these complexe SoCs, applications may rely on  parallel and heterogeneous programming models or dedicated runtime systems.  These approaches need to deal with the complexity of the underlying architecture to optimize both power and time to solution.
 
 The objective of this workshop is to share latest updates on these issues. This includes, thread/task scheduling, GPU task engine, programming models or tuning of applications and algorithms. Panel sessions and keynote talks ¨will also be used to share visions.
 
