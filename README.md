@@ -2,11 +2,11 @@
 
 # Overview
 
-With significant progress in chip manufacturing technology, the complexity of available architectures is increasing with higher core count (up to 64+ core er socket), depth of the memory hierarchy and more heterogenity with integrated GPUs, FPGAs or NICs. 
+With significant progress in chip manufacturing technology, the complexity of available architectures is increasing with higher core count (up to 64+ core per socket), depth of the memory hierarchy and more heterogeneity with integrated GPUs, FPGAs or NICs. 
 
 This landscape of architectures that may be available to reach the exascale leads to increasing concerns regarding applicative performance. To squeeze the maximum level of performance out of these complexe SoCs, applications may rely on  parallel and heterogeneous programming models or dedicated runtime systems.  These approaches need to deal with the complexity of the underlying architecture to optimize both power and time to solution.
 
-The objective of this workshop is to share latest updates on these issues. This includes, thread/task scheduling, GPU task engine, programming models or tuning of applications and algorithms. Panel sessions and keynote talks ¨will also be used to share visions.
+The objective of this workshop is to share latest updates on these issues. This includes, thread/task scheduling, GPU task engine, programming models or tuning of applications and algorithms. Panel sessions and keynote talks will also be used to share visions.
 
 
  
