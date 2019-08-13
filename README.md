@@ -2,10 +2,11 @@
 
 # Overview
 
- With the advent of multi-core/many-core architectures, the core count increases up to 64+ core per socket. These sockets can be heterogeneous with integrated GPUs, FPGAs or NICs. The system on chip (SoC) architectures can be used from cell phones to HPC systems. In order to optimized the utilization of these SoCs, the applications have to use parallel heterogeneous programming models and rely on dedicated runtime.  These runtimes have to deal with the complexity of the SoC architecture in order to provide the best time to solution or power to solution depending on the needs.
+The advent of multi-core/many-core architectures  with significant progress in chip manufacturing technology, . These sockets can be heterogeneous with integrated GPUs, FPGAs or NICs.In order to optimized the utilization of these SoCs, 
 
+Indeed, the increase of the core count up to 64+ core per socket leads to many concerns regarding applicative performances. To squeeze the maximum level of performance out othese complexe SoCs, applications may rely on  parallel and heterogeneous programming models or dedicated runtime systems.  These runtimes have to deal with the complexity of the SoC architecture in order to provide the best time to solution or power to solution depending on the needs.
 
-The goal of this workshop is to is to gather and share the latest scholarly research from the community working on these issues, at all levels of the software stack. This includes, thread/task scheduling, GPU task engine, programming models and so on, from the runtime system to applications. We will also use panel sessions and keynote talks to discuss these issues, share visions, and present solutions.
+The objective of this workshop is to share latest updates on these issues. This includes, thread/task scheduling, GPU task engine, programming models or tuning of applications and algorithms. Panel sessions and keynote talks ¨will also be used to share visions.
 
 
  
