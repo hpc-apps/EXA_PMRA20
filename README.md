@@ -1,7 +1,6 @@
 # Challenges  for runtime systems, programming models and applications on complex SoCs
 
 # Overview
-
 With significant progress in chip manufacturing technology, the complexity of available architectures is increasing with higher core count (up to 64+ core per socket), depth of the memory hierarchy and more heterogeneity with integrated GPUs, FPGAs or NICs. 
 
 This landscape of architectures that may be available to reach the exascale leads to increasing concerns regarding applicative performance. To squeeze the maximum level of performance out of these complexe SoCs, applications may rely on  parallel and heterogeneous programming models or dedicated runtime systems.  These approaches need to deal with the complexity of the underlying architecture to optimize both power and time to solution.
@@ -13,7 +12,6 @@ The objective of this workshop is to share latest updates on these issues. This 
  
 
 # Topics of interest
-
 For this workshop we welcome original work, presenting state of practice and state of the art and covering different aspects of thread/task scheduling, GPU task engine, programming models from system to application level for parallel applications on complex SoCs. We will also welcome surveys, position papers or standardization proposal. The workshop will cover the following topics :
 
 * Scheduling on complex SoCs;
@@ -27,18 +25,18 @@ For this workshop we welcome original work, presenting state of practice and sta
 
 
 # Program Chairs
-
 * Marc Perache, CEA 
 * Fabrice Dupros, Arm	
 
-# Program committee (tentative)
-* Emmanuel Jeannot,	Inria
+# Program Committee 
+* Emmanuel Jeannot,	Inria (confirmed)
 * Hoekstra, Robert J,	Sandia Sational Laboratories (confirmed)
 * Hammond, Simon David,	Sandia National Laboraties (confirmed)
 * Lujan, James Westley,	Los Alamaos National Laboratory (confirmed)
 * D'Hooge, Trent, Lawrence Livermore National Laboratory (confirmed)
 * Philippe Thierry, Intel (confirmed)
 *	Balazs Gerofi, RIKEN (confirmed)
+* Hatem Ltaeif, KAUST (confirmed)
 * Sameer Shende, U. of Oregon 
 
 # How to submit
