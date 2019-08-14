@@ -30,10 +30,10 @@ For this workshop we welcome original work, presenting state of practice and sta
 
 # Program Committee 
 * Emmanuel Jeannot,	Inria (confirmed)
-* Hoekstra, Robert J,	Sandia Sational Laboratories (confirmed)
-* Hammond, Simon David,	Sandia National Laboraties (confirmed)
-* Lujan, James Westley,	Los Alamaos National Laboratory (confirmed)
-* D'Hooge, Trent, Lawrence Livermore National Laboratory (confirmed)
+* Robert J. Hoekstra, Sandia National Laboratories (confirmed)
+* Simon D. Hammond, Sandia National Laboratories (confirmed)
+* James W. Lujan, LANL (confirmed)
+* Trent D'Hooge, LLNL (confirmed)
 * Philippe Thierry, Intel (confirmed)
 *	Balazs Gerofi, RIKEN (confirmed)
 * Hatem Ltaeif, KAUST (confirmed)
