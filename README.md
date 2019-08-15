@@ -1,7 +1,7 @@
 # Challenges  for runtime systems, programming models and applications on complex SoCs
 
 # Overview
-With significant progress in chip manufacturing technology, the complexity of available architectures is increasing with higher core count (up to 64+ core per socket), depth of the memory hierarchy and more heterogeneity with integrated GPUs, FPGAs or NICs. This diversity  of designs to reach the exascale era leads to increasing concerns regarding applicative performance. To squeeze the maximum level of performance out of these complexe SoCs,  parallel programming models, advanced runtime systems or data traffic reduction will play a major role. These approaches need to deal with the complexity of the underlying architecture to optimize both power and time to solution.
+With significant progress in chip manufacturing technology, the complexity of available architectures is increasing with higher core count (up to 64+ core per socket), depth of the memory hierarchy and greater heterogeneity with integrated GPUs, FPGAs or NICs. This diversity  of designs to reach the exascale era leads to increasing concerns regarding applicative performance. To squeeze the maximum level of performance out of these complexe SoCs,  parallel programming models, advanced runtime systems or data traffic reduction will play a major role. These approaches need to deal with the complexity of the underlying architecture to optimize both power and time to solution.
 The objective of this workshop is to share latest updates on these topics. This includes, thread/task scheduling, GPU task engine, programming models or tuning of applications and algorithms on these emerging platforms. 
 
 
