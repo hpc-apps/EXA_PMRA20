@@ -31,7 +31,7 @@ For this workshop we welcome original work, presenting state of practice and sta
 * Robert J. Hoekstra, Sandia National Laboratories - confirmed
 * Trent D'Hooge, LLNL - confirmed
 * Emmanuel Jeannot,	Inria - confirmed
-* Hatem Ltaeif, KAUST - confirmed
+* Hatem Ltaief, KAUST - confirmed
 * James W. Lujan, LANL - confirmed
 * Philippe Thierry, Intel - confirmed
 * Sameer Shende, U. of Oregon 
