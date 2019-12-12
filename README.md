@@ -1,6 +1,6 @@
 # International workshop on Performance modelling,  Runtime System  and Applications at the Exascale (EXA_PMRA'20)
 
-To be held in conjunction with ICPP 2020: The 49th International Conference on Parallel Processing (https://jnamaral.github.io/icpp20/ )
+To be held in conjunction with [ICPP 2020](https://jnamaral.github.io/icpp20/ ): The 49th International Conference on Parallel Processing 
 
 # Overview
 With significant progress in chip manufacturing technology, the complexity of available architectures is increasing with higher core count (up to 64+ core per socket), depth of the memory hierarchy and greater heterogeneity with integrated GPUs, FPGAs or NICs. This diversity of designs to reach the exascale era leads to growing concerns regarding applicative performance. To squeeze the maximum level of performance out of these complex SoCs, runtime systems and performance modelling will play a major role to deal with the complexity of the underlying architecture.
