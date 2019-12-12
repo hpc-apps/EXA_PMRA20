@@ -1,4 +1,4 @@
-# International workshop on Performance modelling,  Runtime System  and Applications at the exascale (EXA_PMRA'20)
+# International workshop on Performance modelling,  Runtime System  and Applications at the Exascale (EXA_PMRA'20)
 
 To be held in conjunction with ICPP 2020: The 49th International Conference on Parallel Processing (https://jnamaral.github.io/icpp20/ )
 
@@ -29,14 +29,14 @@ For this workshop we welcome original work, presenting state of practice and sta
 * Fabrice Dupros, Arm	
 
 # Program Committee 
-*	Balazs Gerofi, RIKEN  - confirmed
-* Simon D. Hammond, Sandia National Laboratories  - confirmed
-* Robert J. Hoekstra, Sandia National Laboratories - confirmed
-* Trent D'Hooge, LLNL - confirmed
-* Emmanuel Jeannot,	Inria - confirmed
-* Hatem Ltaief, KAUST - confirmed
-* James W. Lujan, LANL - confirmed
-* Philippe Thierry, Intel - confirmed
+*	Balazs Gerofi, RIKEN 
+* Simon D. Hammond, Sandia National Laboratories 
+* Robert J. Hoekstra, Sandia National Laboratories 
+* Trent D'Hooge, LLNL
+* Emmanuel Jeannot,	Inria
+* Hatem Ltaief, KAUST
+* James W. Lujan, LANL 
+* Philippe Thierry, Intel 
 * Sameer Shende, U. of Oregon 
 
 # How to submit
