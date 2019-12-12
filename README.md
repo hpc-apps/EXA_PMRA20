@@ -1,8 +1,9 @@
-# Challenges  for runtime systems, programming models and applications on complex SoCs
+# Challenges for performance modelling, runtime systems and applications for the Exascale.
 
 # Overview
-With significant progress in chip manufacturing technology, the complexity of available architectures is increasing with higher core count (up to 64+ core per socket), depth of the memory hierarchy and greater heterogeneity with integrated GPUs, FPGAs or NICs. This diversity  of designs to reach the exascale era leads to increasing concerns regarding applicative performance. To squeeze the maximum level of performance out of these complex SoCs,  parallel programming models, advanced runtime systems or reduction of data movements will play a major role. These approaches need to deal with the complexity of the underlying architecture to optimize both power and time to solution.
-The objective of this workshop is to share latest updates on these topics. This includes, thread/task scheduling, GPU task engine, programming models or tuning of applications and algorithms on these emerging platforms. 
+With significant progress in chip manufacturing technology, the complexity of available architectures is increasing with higher core count (up to 64+ core per socket), depth of the memory hierarchy and greater heterogeneity with integrated GPUs, FPGAs or NICs. This diversity of designs to reach the exascale era leads to growing concerns regarding applicative performance. To squeeze the maximum level of performance out of these complex SoCs, runtime systems and performance modelling will play a major role to deal with the complexity of the underlying architecture.
+The objective of this workshop is to share latest updates on these topics. This includes, thread/task scheduling, benchmarking and tuning of applications and algorithms on emerging platforms.
+
 
 
  
@@ -11,13 +12,13 @@ The objective of this workshop is to share latest updates on these topics. This 
 # Topics of interest
 For this workshop we welcome original work, presenting state of practice and state of the art and covering different aspects of thread/task scheduling, GPU task engine, programming models from system to application level for parallel applications on complex SoCs. We will also welcome surveys, position papers or standardization proposal. The workshop will cover the following topics :
 
+* Micro-benchmarking
 * Scheduling on complex SoCs
-	* Experience with  languages, libraries for heterogeneous architectures
-	* Programming models and runtime systems
-	* Algorithms, tools and programming environment 
-	* Data-movement reduction (e.g compute near-data paradigm)
-	* Performance modeling and prediction
-	* Real-World case studies
+* Runtime systems
+* Data-movement reduction (e.g compute near-data paradigm)
+* Performance evaluation and prediction
+* Real-world case studies
+
 
 
 
