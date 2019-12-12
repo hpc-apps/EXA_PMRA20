@@ -1,5 +1,7 @@
 # International workshop on Performance modelling,  Runtime System  and Applications at the exascale (EXA_PMRA'20)
 
+To be held in conjunction with ICPP 2020: The 49th International Conference on Parallel Processing (https://jnamaral.github.io/icpp20/ )
+
 # Overview
 With significant progress in chip manufacturing technology, the complexity of available architectures is increasing with higher core count (up to 64+ core per socket), depth of the memory hierarchy and greater heterogeneity with integrated GPUs, FPGAs or NICs. This diversity of designs to reach the exascale era leads to growing concerns regarding applicative performance. To squeeze the maximum level of performance out of these complex SoCs, runtime systems and performance modelling will play a major role to deal with the complexity of the underlying architecture.
 The objective of this workshop is to share latest updates on these topics. This includes, thread/task scheduling, benchmarking and tuning of applications and algorithms on emerging platforms.
@@ -38,9 +40,10 @@ For this workshop we welcome original work, presenting state of practice and sta
 * Sameer Shende, U. of Oregon 
 
 # How to submit
-Papers, in PDF format should be submitted through the easychair web site here. Paper must be formatted the same way as IPDPS papers : submitted manuscripts may not exceed ten (10) single-spaced double-column pages using 10-point size font on 8.5×11 inch pages (IEEE conference style), including figures, tables, and references. The IEEE conference template that can be found here.
+Submissions should be in PDF format , and should be formatted in a double-column format with a font size 10 pt or larger. They should not exceed 10 pages (all inclusive). Please follow the ACM format located at https://www.acm.org/publications/proceedings-template. 
+The paper submission online system is open : www.easychair.com 
 
 # Important dates
-* Submission deadline: February 1st , 2020
-* Author Notification: March 8th, 2020
-
+* Paper Submission: May 25, 2020 (AoE)
+* Author Notification: June 15, 2020
+* Workshop Dates: August 17-20, 2019
