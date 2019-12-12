@@ -40,8 +40,7 @@ For this workshop we welcome original work, presenting state of practice and sta
 * Sameer Shende, U. of Oregon 
 
 # How to submit
-Submissions should be in PDF format , and should be formatted in a double-column format with a font size 10 pt or larger. They should not exceed 10 pages (all inclusive). Please follow the ACM format located at https://www.acm.org/publications/proceedings-template. 
-The paper submission online system is open(TBC)
+Submissions should be in PDF format , and should be formatted in a double-column format with a font size 10 pt or larger. They should not exceed 10 pages (all inclusive). Please follow the [ACM format]( https://www.acm.org/publications/proceedings-template)
 
 # Important dates
 * Paper Submission: May 25, 2020 (AoE)
