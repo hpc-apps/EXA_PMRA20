@@ -39,6 +39,7 @@ For this workshop we welcome original work, presenting state of practice and sta
 Submissions should be in PDF format , and should be formatted in a double-column format with a font size 10 pt or larger. They should not exceed 10 pages (all inclusive). Please follow the [ACM format]( https://www.acm.org/publications/proceedings-template)
 
 # Important dates
+This workshop will be held in conjunction with [ICPP 2020](https://jnamaral.github.io/icpp20/) - The 49th International Conference on Parallel Processing
 * Paper Submission: May 25, 2020 (AoE)
 * Author Notification: June 15, 2020
 * Workshop Dates: August 17-20, 2019
