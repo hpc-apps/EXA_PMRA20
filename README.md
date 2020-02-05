@@ -26,8 +26,6 @@ For this workshop we welcome original work, presenting state of practice and sta
 
 # Program Committee 
 *	Balazs Gerofi, RIKEN 
-* Simon D. Hammond, Sandia National Laboratories 
-* Robert J. Hoekstra, Sandia National Laboratories 
 * Trent D'Hooge, LLNL
 * Emmanuel Jeannot,	Inria
 * Hatem Ltaief, KAUST
