@@ -25,17 +25,18 @@ For this workshop we welcome original work, presenting state of practice and sta
 * Fabrice Dupros, Arm	
 
 # Program Committee 
-*	Balazs Gerofi, RIKEN 
 * Trent D'Hooge, Lawrence Livermore National Lab.
+*	Balazs Gerofi, RIKEN 
+* Clay Hughes, Sandia National Lab.
 * Emmanuel Jeannot,	Inria
 * Hatem Ltaief, KAUST
 * James W. Lujan, Los Alamos Nationa Lab.
-* Clay Hughes, Sandia National Lab.
-* Philippe Thierry, Intel 
 * Sameer Shende, U. of Oregon 
+* Philippe Thierry, Intel 
 
 # How to submit
-Submissions should be in PDF format , and should be formatted in a double-column format with a font size 10 pt or larger. They should not exceed 10 pages (all inclusive). Please follow the [ACM format]( https://www.acm.org/publications/proceedings-template)
+Submissions should be in PDF format , and should be formatted in a double-column format with a font size 10 pt or larger. They should not exceed 10 pages (all inclusive). Please follow the [ACM format]( https://www.acm.org/publications/proceedings-template).
+* Submission Link : (https://easychair.org/my/conference?conf=exa-pmra20)
 
 # Important dates
 This workshop will be held in conjunction with [ICPP 2020](https://jnamaral.github.io/icpp20/) - The 49th International Conference on Parallel Processing
