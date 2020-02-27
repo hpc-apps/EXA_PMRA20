@@ -38,7 +38,7 @@ For this workshop we welcome original work, presenting state of practice and sta
 Submissions should be in PDF format , and should be formatted in a double-column format with a font size 10 pt or larger. They should not exceed 10 pages (all inclusive). 
 * Please follow the ACM format : <https://www.acm.org/publications/proceedings-template>
 * Submission Link : <https://easychair.org/my/conference?conf=exa-pmra20>
-* Visit <ttps://pages.github.com/>
+* Visit <https://pages.github.com/>
 
 
 # Important dates
