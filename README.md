@@ -26,10 +26,11 @@ For this workshop we welcome original work, presenting state of practice and sta
 
 # Program Committee 
 *	Balazs Gerofi, RIKEN 
-* Trent D'Hooge, LLNL
+* Trent D'Hooge, Lawrence Livermore National Lab.
 * Emmanuel Jeannot,	Inria
 * Hatem Ltaief, KAUST
-* James W. Lujan, LANL 
+* James W. Lujan, Los Alamos Nationa Lab.
+* Clay Hughes, Sandia National Lab.
 * Philippe Thierry, Intel 
 * Sameer Shende, U. of Oregon 
 
