@@ -1,5 +1,5 @@
 # Overview
-With significant progress in chip manufacturing technology, the complexity of available architectures is increasing with higher core count (up to 64+ core per socket), depth of the memory hierarchy and greater heterogeneity with integrated GPUs, FPGAs or NICs. This diversity of designs to reach the exascale era leads to growing concerns regarding applicative performance. To squeeze the maximum level of performance out of these complex SoCs, runtime systems and performance modelling will play a major role to deal with the complexity of the underlying architecture.
+With significant progress in chip manufacturing technology, the complexity of available architectures is increasing with higher core count, depth of the memory hierarchy and greater heterogeneity with integrated GPUs, FPGAs or NICs. This diversity of designs to reach the exascale era leads to growing concerns regarding applicative performance. To squeeze the maximum level of performance out of these complex SoCs, runtime systems and performance modelling will play a major role to deal with the complexity of the underlying architecture.
 The objective of this workshop is to share latest updates on these topics. This includes, thread/task scheduling, benchmarking and tuning of applications and algorithms on emerging platforms.
 
 
@@ -25,12 +25,10 @@ For this workshop we welcome original work, presenting state of practice and sta
 * Fabrice Dupros, Arm	
 
 # Program Committee 
-* Trent D'Hooge, Lawrence Livermore National Lab.
 *	Balazs Gerofi, RIKEN 
 * Clay Hughes, Sandia National Lab.
 * Emmanuel Jeannot,	Inria
 * Hatem Ltaief, KAUST
-* James W. Lujan, Los Alamos Nationa Lab.
 * Sameer Shende, U. of Oregon 
 * Philippe Thierry, Intel 
 
