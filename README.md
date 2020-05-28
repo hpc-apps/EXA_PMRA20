@@ -42,5 +42,5 @@ Submissions should be in PDF format , and should be formatted in a double-column
 This workshop will be held in conjunction with [ICPP 2020](https://jnamaral.github.io/icpp20/) - The 49th International Conference on Parallel Processing
 * Paper Submission: May 10, 2020 (AoE)
 * Author Notification: June 1, 2020
-* Camera ready : June 8, 2020
+* Camera ready : June 15, 2020
 * Workshop Dates: August 17, 2020
