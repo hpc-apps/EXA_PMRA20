@@ -3,8 +3,6 @@ With significant progress in chip manufacturing technology, the complexity of av
 The objective of this workshop is to share latest updates on these topics. This includes, thread/task scheduling, benchmarking and tuning of applications and algorithms on emerging platforms.
 
 
-
- 
  
 
 # Topics of interest
@@ -39,8 +37,14 @@ Submissions should be in PDF format , and should be formatted in a double-column
 
 
 # Important dates
-This workshop will be held in conjunction with [ICPP 2020](https://jnamaral.github.io/icpp20/) - The 49th International Conference on Parallel Processing
+This half-day workshop will be held in conjunction with [ICPP 2020](https://jnamaral.github.io/icpp20/) - The 49th International Conference on Parallel Processing
 * Paper Submission: May 10, 2020 (AoE)
 * Author Notification: June 1, 2020
 * Camera ready : June 15, 2020
 * Workshop Dates: August 17, 2020
+
+# List of Accepted Papers (tentative)
+* Fast Modeling of Network Contention in Batch Point-to-point Communications by Packet-level Simulation with Dynamic Time-stepping,  Z.Hang et al.
+* Exploiting Dynamism in HPC Applications to Optimize Energy-Efficiency, M.Kumaraswamy et al.
+* Accelerating Forward-Backward Sweep Power Flow Computation on the GPU, S. Shah et al.
+* Feature-preserving Lossy Compression for In Situ Data, I. Yakushin et al. 
