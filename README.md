@@ -44,7 +44,7 @@ This half-day workshop will be held in conjunction with [ICPP 2020](https://jnam
 * Camera ready : June 15, 2020
 * Workshop Dates: August 17, 2020
 
-# List of Accepted Papers (tentative)
+# List of Accepted Papers
 * Fast Modeling of Network Contention in Batch Point-to-point Communications by Packet-level Simulation with Dynamic Time-stepping,  Zhang Yang, Jintao Peng and Qingkai Liu
 * Exploiting Dynamism in HPC Applications to Optimize Energy-Efficiency, Madhura Kumaraswamy and Michael Gerndt
 * Accelerating Forward-Backward Sweep Power Flow Computation on the GPU, Saumya Shah, Mahyar Zarghami and Pinar Muyan-Ozcelik
